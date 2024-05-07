@@ -1,0 +1,22 @@
+{
+    "environment": {
+        "username": "admin@tudip.com",
+        "password": "tudip123"
+    },
+    "URLs": {
+        "loginpageurl": "http://dev.recruitment.tudip.uk/#/career"
+    },
+    "form_Alldetails":{
+        "firstname": "Tanishq"
+        ,"lastname": "Yadav",
+        "email": "pijigek620@glaslack.com",
+        "conatct": "6232991442"
+    },
+    "Dob": "08/03/1999",
+    "resume":"/home/tanishkyadav/Downloads/test.pdf",
+    "search_for_candidate":"Tanishq",
+    "column":["Name","Email"," Position "," Status "," Qualification "]
+    ,
+    "editdata":"Tanishk",
+    "marks_of_candidate":"35"
+}
